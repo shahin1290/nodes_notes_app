@@ -12,6 +12,6 @@
     "chalk": "^2.4.1",
     "validator": "^10.8.0",
     "yargs": "^13.2.2",
-    "yargs-parser": "^10.1.0"
+    "yargs-parser": "^13.1.2"
   }
 }
